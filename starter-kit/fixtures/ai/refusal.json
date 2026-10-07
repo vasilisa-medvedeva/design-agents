@@ -1,0 +1,1 @@
+{ "scenario": "refusal", "first_token_delay_ms": 800, "error": { "type": "refusal", "message": "I can't help with this request. Try rephrasing it or pick another topic.", "retryable": false } }

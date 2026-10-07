@@ -1,0 +1,2 @@
+{ "scenario": "slow", "first_token_delay_ms": 4500, "char_delay_ms": 30, "chunk": "word",
+  "response": "The response arrived, but with a delay — same format as in success.", "confidence": "high", "sources": [] }

@@ -1,0 +1,2 @@
+{ "scenario": "low-confidence", "first_token_delay_ms": 900, "char_delay_ms": 20, "chunk": "word",
+  "response": "This may be about … — but I'm not sure. Check the source.", "confidence": "low", "sources": [] }

@@ -1,0 +1,9 @@
+{
+  "scenario": "success",
+  "first_token_delay_ms": 600,
+  "char_delay_ms": 20,
+  "chunk": "word",
+  "response": "Here's a short summary of the article:\n\n1. Main idea — …\n2. Arguments — …\n3. Conclusion — …",
+  "confidence": "high",
+  "sources": [{ "id": "s1", "title": "Source article", "url": "https://example.com" }]
+}
